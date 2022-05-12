@@ -1,0 +1,11 @@
+body {
+    color: magenta;
+    columns: 2;
+}
+h2 {
+    color: lime;
+    column-rule-color: aliceblue;
+}
+p{
+    color: orange;
+}
